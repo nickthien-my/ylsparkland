@@ -7,7 +7,6 @@ body{
 h1 {
   font-weight: bold;
   font-size: 2.5em;
-  padding-bottom: 50px;
 }
 
 h2 {
@@ -56,6 +55,106 @@ td {
 
 .back {
   font-size: 1.5em;
+}
+
+.button {
+  border: none;
+  border-radius: 15px;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 25px 10px;
+}
+
+.button1 {
+  background-color: #164274;
+  border: none;
+  border-radius: 15px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 40px;
+}
+
+.button2 {
+  background-color: #BA43DE;
+  border: none;
+  border-radius: 15px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 40px;
+}
+
+.button3 {
+  background-color: #DE434E;
+  border: none;
+  border-radius: 15px;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 40px;
+}
+
+.button4 {
+  background-color: #8A9C14;
+  border: none;
+  border-radius: 15px;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 40px;
+}
+
+.button5 {
+  background-color: #DE4367;
+  border: none;
+  border-radius: 15px;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 40px;
+}
+
+.button6 {
+  background-color: #343409;
+  border: none;
+  border-radius: 15px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 40px;
+}
+
+.button7 {
+  background-color: #8601AF;
+  border: none;
+  border-radius: 15px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 40px;
+}
+
+.buttonback {
+  background-color: #555555;
+  color: white;
+  font-size: 20px;
 }
 
 .copyright {
