@@ -1,5 +1,5 @@
 body{
-  margin: 5%;
+  margin: 2.5% 5%;
   background-color: yellow;
   font-family: arial;
 }
@@ -54,6 +54,7 @@ td {
 }
 
 .copyright {
+  text-align: center;
   padding-top: 150px;
   font-family: "Times New Roman";
 }
